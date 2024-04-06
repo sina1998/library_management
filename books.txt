@@ -1,0 +1,10 @@
+1,honderd years of aloneness,gabriel garsia markes,IDK,20.99,1820-11-21,spanish
+2,way of wolf,IDK,IDK too,15.2,2001-05-15,english
+3,animal farm,jeorje orvel,IDK,13.8,1930-08-13,english
+4,1984,jeorje orvel,IDK,19.0,1990-06-02,english
+5,dezireh,IDK,IDK too,15.0,2015-10-22,english
+6,songs of fire and ice,jeorje.rr.martin,IDK,150.0,2007-04-20,english
+7,harry poter,tolkin,IDK,200.00,2000-05-21,english
+8,pride and prejudice,jane austen,IDK,300.00,1990-03-25,english
+9,hamlet,william shakespeare,IDK,250.00,1850-10-13,english
+10,odyssey,homer,IDK,240.80,1720-02-10,latin
